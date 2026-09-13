@@ -253,6 +253,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## File Management
 
+* [cwdio](https://cwdio.com) - Keyboard-first dual-pane file manager with an embedded terminal that follows the active panel.
 * [Everything](https://www.voidtools.com/) - Instant file search utility.
 * [File Converter](https://file-converter.io/) - A simple tool to convert and compress files using the context menu in windows explorer. [![Open-Source Software][oss]](https://github.com/Tichau/FileConverter) 
 * [File pilot](https://filepilot.tech/) - Next-gen file explorer. Engineered entirely from scratch for light-speed performance, featuring a modern and robust interface.
